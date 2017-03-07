@@ -15,7 +15,7 @@
         <link rel="stylesheet" href="CSS/styles.css"/>
         <link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet">
         <script type="text/javascript" src="JS/js.js"></script>
-        <title>Anime Poll</title>
+        <title>Anime Poll Github</title>
     </head>
     <body id="body">
         <header id="header">

@@ -48,6 +48,7 @@
             <a class="label1">Go to the Index</a>
             </div>
         </div>
+                <div>Arriba la práctica 12 de Despliegue - by Chevy</div>
         <footer id="footer">
             <img id="social" src="../SRC/social_bar.png"/>
         </footer>
