@@ -23,6 +23,7 @@
             <img id="header_anime" class="img_header" src="SRC/anime.png"/>
             <h3 id="h3_header">Welcome to the new Poll<hr>Which is the best Anime?</h3>
             <img id="ban_1" class="img_header" src="SRC/ban_1.jpg"/>
+            <p> Jorge Esta modificando tu proyecto</p>
         </header>
         <div id="div_login">
             <div id="div_login_1">
@@ -55,8 +56,6 @@
                 %>
             </div>
         </div>
-        <footer id="footer">
-            <img id="social" src="SRC/social_bar.png"/>
-        </footer>
+        
     </body>
 </html>
