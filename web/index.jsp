@@ -24,6 +24,11 @@
             <h3 id="h3_header">Welcome to the new Poll<hr>Which is the best Anime?</h3>
             <img id="ban_1" class="img_header" src="SRC/ban_1.jpg"/>
             <p> Jorge Esta modificando tu proyecto</p>
+            <p> Jorge Esta modificando tu proyecto</p>
+            <p> Jorge Esta modificando tu proyecto</p>
+            <p> Jorge Esta modificando tu proyecto</p>
+            <p> Jorge Esta modificando tu proyecto</p>
+            <p> Jorge Esta modificando tu proyecto</p>
         </header>
         <div id="div_login">
             <div id="div_login_1">
