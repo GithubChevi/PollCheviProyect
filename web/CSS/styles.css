@@ -1,0 +1,275 @@
+html{
+    -webkit-user-select: none;
+    font-family: 'Merienda',cursive;
+    margin: 0 auto;
+    padding: 0;
+    overflow: auto;
+    display: block;
+}
+body{
+    margin: 0 auto;
+    padding: 0;
+    overflow: auto;
+    display: block;
+}
+header{
+    width: 100%;
+    height: 125px;
+    background-color: #3399ff;
+    display: table;
+}
+.img_header{
+    display: table-cell;
+    vertical-align: middle;
+    float: left;
+    height: 125px;
+}
+#naruto_1{
+    margin-left: 50px;
+    width:200px;
+}
+#header_anime{
+    margin-left: 75px;
+    width:350px;
+}
+#h3_header{
+    display:table-cell;
+    vertical-align: middle;
+    float: left;
+    margin-left: 50px;
+    color: white;
+    width: 325px;
+}
+#social{
+    height: 60px;
+    margin-top: 10px;
+    width: 60px;
+    margin-right: 20px;
+    width: 500px;
+    float: right;
+    cursor: pointer;
+}
+#ban_1{
+    margin-left: 50px;
+}
+#footer{
+    width: 100%;
+    height: 80px;
+    background-color: #99ccff;
+}
+#div_1{
+    display: block;
+    background-image: url('../SRC/abstract_1.png');
+    height: 800px;
+}
+#div_1_1{
+    float: left;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    height: 650px;
+    width: 750px;
+    margin-left: 125px;
+    margin-right: 75px;
+    background-color: white;
+    border-radius: 10px;
+}
+#aside_1{
+    width: 200px;
+    height: 650px;
+    float: right;
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    background-color: white;
+    border-radius: 10px;
+}
+.form_1{
+    display: table;
+    margin-top: -36px;
+    padding-bottom: 40px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+#form_1 input{
+    margin-top: 40px;
+}
+#anime_list_left{
+    display: table-cell;
+    vertical-align: middle;
+    float:left;
+    width: 350px;
+}
+#anime_list_right{
+    display: table-cell;
+    vertical-align: middle;
+    float:right;
+    width:350px;
+}
+.img_height{
+    height: 150px;
+    width: 125px;
+}
+.img_width{
+    width: 150px;
+    height:125px;
+}
+.label_center{
+    position: relative;
+    top: -50px;
+}
+#div_login{
+    height: 500px;
+    display: block;
+    background-image: url('../SRC/login_1.jpg');
+}
+#div_login_1{
+    float: left;
+    width: 750px;
+    height: 300px;
+    position: relative;
+    margin-top: 50px;
+    left: 25%;
+    background-color: white;
+    border-radius: 5px;
+}
+#yo{
+    margin: 0 auto;
+    width: 600px;
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+#yo td, #yo th{
+    border: solid 1px black;
+    border-spacing: 10px;
+}
+.b_form_2{
+    margin-top: 20px;
+    float:right;
+}
+.img_back{
+    margin-right: 5px;
+    z-index: 1;
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 50px;
+    
+}
+.div_back2{
+    position: fixed;
+    cursor: pointer;
+    display: table;
+    width:250px;
+    height: 100px;
+    border: solid black 1px;
+    border-radius: 10%;
+    -webkit-user-select: none;
+    background: -webkit-linear-gradient(to bottom, #cccccc,white);
+    background: -o-linear-gradient(to bottom, #cccccc,white);
+    background: -moz-linear-gradient(to bottom, #cccccc,white);
+    background: linear-gradient(to bottom, #cccccc,white);
+    bottom: 2%;
+    left: 5%;
+    box-shadow: 0 0 15px 10px black;
+}
+.div_back{
+    position: fixed;
+    cursor: pointer;
+    display: table;
+    width:250px;
+    height: 100px;
+    border: solid black 1px;
+    border-radius: 10%;
+    -webkit-user-select: none;
+    background: -webkit-linear-gradient(to bottom, #cccccc,white);
+    background: -o-linear-gradient(to bottom, #cccccc,white);
+    background: -moz-linear-gradient(to bottom, #cccccc,white);
+    background: linear-gradient(to bottom, #cccccc,white);
+    bottom: 10%;
+    left: 5%;
+    box-shadow: 0 0 15px 10px black;
+}
+.label1{
+    font-size: 20px;
+    position: relative;
+    display: table-cell;
+    vertical-align: middle;
+}
+#div_results{
+    width:100%;
+    height:600px;
+    overflow-y: auto;
+    background-image: url('../SRC/blue_wall.jpg');
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+.div_res{
+    width: 22%;
+    float:left;
+    background-color: white;
+    height:250px;
+    border-radius: 15%;
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.p_res{
+    text-align: center;
+}
+#div_census{
+    width:100%;
+    height:600px;
+    overflow-y: auto;
+    background-image: url('../SRC/kaki.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+.div_info{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin: 0 auto;
+    background-color: white;
+    width: 500px;
+    border-radius: 5%;
+}
+.table_census{
+    margin: 0 auto;
+    width: 400px;
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+#table_census td, #table_census th{
+    text-align: center;
+    border: solid 1px black;
+    border-spacing: 10px;
+}
+.img_res{
+    width: 90%;
+    height: 60%;
+    margin-left: 5%;
+}
+.closepoll{
+    background-image: url('../SRC/fireworks.jpg');
+    width: 100%;
+    height: 528px;
+    overflow-y: auto;
+    padding-bottom: 30px;
+}
+.aha{
+    margin: 0;
+    padding: 0;
+}
+.box_1{
+    width: 25%;
+    height: 250px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 10%;
+}
